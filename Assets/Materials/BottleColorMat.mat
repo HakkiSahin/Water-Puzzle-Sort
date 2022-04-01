@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BottleColorMat
+  m_Shader: {fileID: -6465566751694194690, guid: c0b9ca4ff337b4143978b121c49cda41, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_d1c052d538654598bbd622586094b38b: -0.5
+    - _FillAmount: 0.34
+    - _SARM: 1
+    m_Colors:
+    - Color_4069533b55344e739d56d5b454fbf907: {r: 0.7568628, g: 0.7450981, b: 0.1921569, a: 1}
+    - Color_4dd94e08fb5a4f849fb3d4b765e00b36: {r: 0.2235294, g: 0.4862745, b: 0.8666667, a: 1}
+    - Color_58ef02ec89fe443a9d12fd0c0a6fd84d: {r: 0.7960784, g: 0.2156863, b: 0.7803922, a: 1}
+    - Color_89f08df633b44d22b6a55df6e83f8c1d: {r: 0.7830189, g: 0.136659, b: 0.136659, a: 1}
+    - _C1: {r: 0.7830189, g: 0.04062834, b: 0.04062834, a: 1}
+    - _C2: {r: 0.2235294, g: 0.4862745, b: 0.8666667, a: 1}
+    - _C3: {r: 0.7568628, g: 0.7450981, b: 0.1921569, a: 1}
+    - _C4: {r: 0.7960784, g: 0.2156863, b: 0.7803922, a: 1}
+  m_BuildTextureStacks: []

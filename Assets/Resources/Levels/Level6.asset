@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b40356f5b9d80f04d8382c9a05b50283, type: 3}
+  m_Name: Level6
+  m_EditorClassIdentifier: 
+  bottles:
+  - colors:
+    - {r: 0.75686276, g: 0.74509805, b: 0.19215687, a: 1}
+    - {r: 0.7830189, g: 0.136659, b: 0.136659, a: 1}
+    - {r: 0.22352941, g: 0.4862745, b: 0.8666667, a: 1}
+    - {r: 0.7830189, g: 0.136659, b: 0.136659, a: 1}
+    numberBottle: 3
+  - colors:
+    - {r: 0.7830189, g: 0.136659, b: 0.136659, a: 1}
+    - {r: 0.22352941, g: 0.4862745, b: 0.8666667, a: 1}
+    - {r: 0.75686276, g: 0.74509805, b: 0.19215687, a: 1}
+    - {r: 0.75686276, g: 0.74509805, b: 0.19215687, a: 1}
+    numberBottle: 3
+  - colors:
+    - {r: 0.22352941, g: 0.4862745, b: 0.8666667, a: 1}
+    - {r: 0.75686276, g: 0.74509805, b: 0.19215687, a: 1}
+    - {r: 0.7830189, g: 0.136659, b: 0.136659, a: 1}
+    - {r: 0.75686276, g: 0.74509805, b: 0.19215687, a: 1}
+    numberBottle: 3
+  - colors:
+    - {r: 0.22352941, g: 0.4862745, b: 0.8666667, a: 1}
+    - {r: 0.75686276, g: 0.74509805, b: 0.19215687, a: 1}
+    - {r: 0.7830189, g: 0.136659, b: 0.136659, a: 1}
+    - {r: 0.7830189, g: 0.136659, b: 0.136659, a: 1}
+    numberBottle: 3
+  winBottleCount: 3
